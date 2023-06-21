@@ -1,0 +1,16 @@
+.heading {
+    background-color: antiquewhite;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    z-index: 9;
+}
+i {
+    font-size: 30px;
+    padding-right: 10px;
+}
