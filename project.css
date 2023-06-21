@@ -79,7 +79,7 @@ i {
     border-radius: 25px;
     text-align: center;
    }
-   .section1:hover, .section2:hover div {
+   .section1, .section2:hover div {
     animation: images 3s linear;
     position: relative;
    }
